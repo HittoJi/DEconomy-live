@@ -4,7 +4,7 @@
   "main": "node_modules/expo/AppEntry.js",
   "homepage":"https://hittoji.github.io/DEconomy-live/",
   "scripts": {
-    "predeploy": "npm start",
+    "predeploy": "npm start --web",
     "deploy": "gh-pages -d web-build",
     "start": "expo start",
     "android": "expo start --android",
