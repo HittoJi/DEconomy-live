@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/DEconomy-live/static/js/app.1da07e56.chunk.js",
+    "app.js.map": "/DEconomy-live/static/js/app.1da07e56.chunk.js.map",
+    "runtime~app.js": "/DEconomy-live/static/js/runtime~app.1154b570.js",
+    "runtime~app.js.map": "/DEconomy-live/static/js/runtime~app.1154b570.js.map",
+    "static/js/2.cbefa68b.chunk.js": "/DEconomy-live/static/js/2.cbefa68b.chunk.js",
+    "static/js/2.cbefa68b.chunk.js.map": "/DEconomy-live/static/js/2.cbefa68b.chunk.js.map",
+    "fonts/AntDesign.ttf": "/DEconomy-live/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/DEconomy-live/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/DEconomy-live/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/DEconomy-live/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/DEconomy-live/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/DEconomy-live/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/DEconomy-live/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/DEconomy-live/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/DEconomy-live/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/DEconomy-live/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/DEconomy-live/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/DEconomy-live/./fonts/SimpleLineIcons.ttf",
+    "fonts/SpaceMono-Regular.ttf": "/DEconomy-live/./fonts/SpaceMono-Regular.ttf",
+    "favicon-16.png": "/DEconomy-live/favicon-16.png",
+    "favicon-32.png": "/DEconomy-live/favicon-32.png",
+    "favicon.ico": "/DEconomy-live/favicon.ico",
+    "index.html": "/DEconomy-live/index.html",
+    "manifest.json": "/DEconomy-live/manifest.json",
+    "serve.json": "/DEconomy-live/serve.json",
+    "static/js/2.cbefa68b.chunk.js.LICENSE.txt": "/DEconomy-live/static/js/2.cbefa68b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.1154b570.js",
+    "static/js/2.cbefa68b.chunk.js",
+    "static/js/app.1da07e56.chunk.js"
+  ]
+}
